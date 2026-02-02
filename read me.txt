@@ -1,0 +1,34 @@
+C:.
+│   read me.txt
+│
+├───.cursor
+└───public_html
+    │   admin.php
+    │   dashboard.php
+    │   home.php
+    │   index.php
+    │   intro.php
+    │   login.php
+    │   logout.php
+    │   register.php
+    │
+    ├───assets
+    │   │   intro.js
+    │   │   intro.mp3
+    │   │   style.css
+    │   │   transition.js
+    │   │
+    │   └───img
+    │           login.png
+    │           logo.png
+    │
+    └───includes
+            .htaccess
+            app.php
+            auth.php
+            bootstrap.php
+            csrf.php
+            db.php
+            game.php
+            helpers.php
+            topbar.php

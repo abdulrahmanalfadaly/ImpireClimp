@@ -1,0 +1,39 @@
+check in
+mini investment
+
+
+Basement Room (1 room)
+shop_realestate_basement.jpg
+
+Studio Apartment (1 room)
+shop_realestate_studio.jpg
+
+Furnished Apartment (2 room)
+shop_realestate_furnished.jpg
+
+Small Townhouse (5 room)
+shop_realestate_townhouse.jpg
+
+Modern City Apartment (5 rooms)
+shop_realestate_city.jpg
+
+Duplex House
+shop_realestate_duplex.jpg
+
+Beach House
+shop_realestate_beach.jpg
+
+Hilltop Villa
+shop_realestate_hilltop.jpg
+
+Private Mansion
+shop_realestate_mansion.jpg
+
+Estate Compound
+shop_realestate_estate.jpg
+
+Skyscraper
+shop_realestate_skyscraper.jpg
+
+Private Island
+shop_realestate_island.jpg
